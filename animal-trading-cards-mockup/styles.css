@@ -1,0 +1,40 @@
+/* add your CSS here */
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+.border-outside {
+    box-sizing: border-box;
+    width: 320px;
+    box-shadow: 0px 4px 5px 4px rgba(173,168,173,1);
+}
+
+h1 {
+    padding: 15px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.image {
+    width: 300px;
+    padding: 10px;
+    padding-bottom: 0px;
+}
+
+.border-inside {
+    border: 2px solid rgba(128, 128, 128, 0.31);
+    margin: 10px;
+    width: 300px;
+}
+
+.information-section {
+    padding-right: 8px;
+    padding-left: 10px;
+    margin-top: -5px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0px;
+}
+

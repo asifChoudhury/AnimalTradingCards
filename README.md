@@ -1,1 +1,3 @@
 # AnimalTradingCards
+
+Re-create a webpage from a design prototype.
